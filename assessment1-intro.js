@@ -231,3 +231,7 @@ for(let i = 0; i < colors.length; i++){
     - How to push git to github
 */
 
+let weather ="cold"
+
+// This is practice for adding changes and push.
+//First time, intialize. After that, push.
